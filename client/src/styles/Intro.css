@@ -1,0 +1,21 @@
+.main {
+  padding-top: 5rem;
+  padding-bottom: 20rem;
+  background-color: #fa2545;
+  color: white;
+  font-family: "Cambria", "Cochin", Georgia, Times, "Times New Roman", serif;
+}
+
+.heading {
+  text-align: center;
+  font-size: 40px;
+}
+
+.content {
+  font-size: 18px;
+}
+
+.link {
+  color: black;
+  background-color: azure;
+}
